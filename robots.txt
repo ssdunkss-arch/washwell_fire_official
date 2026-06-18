@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ssdunkss-arch.github.io/washwell_fire_official/sitemap.xml
