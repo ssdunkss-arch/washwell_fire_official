@@ -1,0 +1,9 @@
+<svg width="760" height="150" viewBox="0 0 760 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WASHWELL logo</title>
+  <desc id="desc">WASHWELL wordmark in deep navy and ocean blue with wave motif</desc>
+  <rect width="760" height="150" fill="white" fill-opacity="0"/>
+  <text x="24" y="104" font-family="Montserrat, Pretendard, Noto Sans KR, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-5" fill="#0B1D3A">WASH</text>
+  <text x="371" y="104" font-family="Montserrat, Pretendard, Noto Sans KR, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-5" fill="#0EA5FF">WELL</text>
+  <path d="M149 91C174 62 201 64 229 89C250 108 277 108 302 84" stroke="#0EA5FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M166 92C186 75 205 77 226 94C245 109 268 107 286 92" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.95"/>
+</svg>
